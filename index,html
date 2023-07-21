@@ -1,0 +1,54 @@
+<!-- BEGIN (write your solution here) -->
+<!DOCTYPE html>
+<html lang="">
+
+<head>
+  <title>Резюме Чепкасов И.С.</title>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div id="header">
+    <h1 class="header-title">Чепкасов Игорь</h1>
+    <h2 class="header-title">Веб-разработчик</h2>
+    <p><a href="mailto:fox-white@rambler.ru">fox-white@rambler.ru</a>, <a href="https://www.foxwhite.net">foxwhite.net</a></p>
+    <p>Я увлекаюсь созданием сайтов с учебы в техникуме. Разрабатывал сайты интернет магазинов для компании M.INT и Sly John's Lab. После курсов на Хэкслете начал работать веб-разработчиком. Умею работать с html, css, javascript и немного php и базами sql.</p>
+  </div>
+  <div id="main">
+    <section>
+      <h2>Опыт работы</h2>
+      <hr>
+      <p>Парфюмерная компания M.INT</p>
+      <p>Веб-разработчик, веб-дизайнер <i>10 ноября 2016 - 16 октября 2021</i></p>
+      <ul>
+        <li>Разработка и поддержка сайтов <a href="https://mintparfums.com/">mintparfums.com</a> и <a href="https://sjlparfums.com/">sjlparfums.com</a></li>
+        <li>Создание иллюстраций для компании M.INT</li>
+      </ul>
+    </section>
+    <section>
+      <h2>Образование</h2>
+      <hr>
+      <p>Сарапульский авиационный техникум</p>
+      <p>Специалист по разработке компьютерных сетей и телекоммуникаций <i>2004 - 2008</i></p>
+      <p>Хекслет</p>
+      <p>Курсы по программированию, Frontend- разработчик <i>2023 - 2023</i></p>
+    </section>
+    <section>
+      <h2>Другие навыки и увлечения</h2>
+      <hr>
+      <ul>
+        <li>Основы дизайна и типографики</li>
+        <li>3d графика</li>
+        <li>Бег и лыжи</li>
+      </ul>
+    </section>
+  </div>
+  <div id="footer">
+    <h4>Чепкасов Игорь</h4>
+    г. Сарапул, Удмуртская Республика, +7 919 907 55 38, <a href="mailto:fox-wite@rambler.ru">fox-wite@rambler.ru</a>
+  </div>
+</body>
+
+</html>
+<!-- END -->
